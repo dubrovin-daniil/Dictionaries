@@ -29,10 +29,10 @@ namespace Dictionaries
             Console.WriteLine("MENU:");
             Console.WriteLine("0. Exit");
             Console.WriteLine("1. Add Word");
-            Console.WriteLine("2. Edit Key");
-            Console.WriteLine("3. Edit Value");
-            Console.WriteLine("4. Remove Key");
-            Console.WriteLine("5. Remove Value");
+            Console.WriteLine("2. Edit Word");
+            Console.WriteLine("3. Edit Translate");
+            Console.WriteLine("4. Remove Word");
+            Console.WriteLine("5. Remove Translate");
             Console.WriteLine("6. Search word translate");
             Console.WriteLine("7. Export word to file");
             Console.WriteLine("8. Create new dictionary");
