@@ -20,7 +20,7 @@ namespace Dictionaries
             string type = Console.ReadLine() ?? "English - Ukrainian";
             dictList.Add(new Dictionary(type));
             ShowMenu();
-        }
+        } 
         public void ShowMenu()
         {
             Console.Clear();
